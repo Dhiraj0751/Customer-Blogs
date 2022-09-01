@@ -1,0 +1,7 @@
+<svg id="Component_298_42" data-name="Component 298 – 42" xmlns="http://www.w3.org/2000/svg" width="126" height="42" viewBox="0 0 126 42">
+  <rect id="_Background" data-name="🎨 Background" width="126" height="42" rx="21" fill="#fff"/>
+  <g id="Group_985" data-name="Group 985" transform="translate(-437.5 12)">
+    <path id="Icon_awesome-sort-amount-up" data-name="Icon awesome-sort-amount-up" d="M8.312,12.75H6.562a.437.437,0,0,0-.437.437v.875a.437.437,0,0,0,.437.437h1.75a.437.437,0,0,0,.437-.437v-.875A.437.437,0,0,0,8.312,12.75Zm-7.875-7H1.75v8.312a.437.437,0,0,0,.437.437h.875a.437.437,0,0,0,.437-.437V5.75H4.812A.438.438,0,0,0,5.121,5L2.934,2.378a.437.437,0,0,0-.619,0L.128,5A.438.438,0,0,0,.437,5.75Zm11.375,0H6.562a.437.437,0,0,0-.437.437v.875a.437.437,0,0,0,.437.437h5.25a.437.437,0,0,0,.437-.437V6.187A.437.437,0,0,0,11.812,5.75Zm-1.75,3.5h-3.5a.437.437,0,0,0-.437.437v.875A.437.437,0,0,0,6.562,11h3.5a.437.437,0,0,0,.437-.437V9.687A.437.437,0,0,0,10.062,9.25Zm3.5-7h-7a.437.437,0,0,0-.437.437v.875A.437.437,0,0,0,6.562,4h7A.437.437,0,0,0,14,3.562V2.687A.437.437,0,0,0,13.562,2.25Z" transform="translate(538.5 1.125)" fill="#ffb923"/>
+    <text id="_-_Content" data-name="✍️ - Content" transform="translate(530.5 15)" fill="#222b45" font-size="15" font-family="SegoeUI, Segoe UI"><tspan x="-82" y="0">Sort By Date</tspan></text>
+  </g>
+</svg>
